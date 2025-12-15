@@ -1,1 +1,1 @@
-# webapp_bankruptcy_pred
+# Bankrupcty Prediction Web-Application
